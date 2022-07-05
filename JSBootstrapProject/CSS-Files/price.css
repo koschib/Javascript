@@ -1,0 +1,23 @@
+
+
+body{
+
+    background: url("/JSBootstrapProject/Media/05.jpg")  center center fixed;
+    color:whitesmoke ;
+}
+
+
+
+
+.login-container{
+    background-color: #151518;
+    padding: 20px;
+    color: #a8a8a8;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+.pricing-container{
+    color: #1b1c1f;
+   
+}
